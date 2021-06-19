@@ -1,11 +1,16 @@
 Hi there 👋
 
-Меня зовут Стойчикова Ксения. 
+Меня зовут [Стойчикова Ксения](https://github.com/kseniya7991). 
+
+<a href="https://www.linkedin.com/in/kseniya-stoychikova-907594201/">
+  <img align="left" alt="Kseniya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 Я начинающий Front-end developer.
 Я еще нахожусь в процессе обучения, но этот процесс никогда не закончится!
 
-<blockquote>It's never too late to learn, right?</blockquote>
+<blockquote>✨It's never too late to learn, right?✨</blockquote>
+![](https://visitor-badge.glitch.me/badge?page_id=kseniya7991.kseniya7991)
 <!--
 **kseniya7991/kseniya7991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
