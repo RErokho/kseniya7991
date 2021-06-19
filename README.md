@@ -30,4 +30,4 @@ Hi there 👋
 ### Статистика:  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kseniya7991&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="right" alt="GIF" src="https://gifer.com/embed/6M8G" width="500" height="320" />
+![](6M8G.gif)
