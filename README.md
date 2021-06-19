@@ -36,9 +36,9 @@ Hi there 👋
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kseniya7991&layout=compact&theme=cobalt" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kseniya7991&theme=cobalt&v=2"/>
-</a>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kseniya7991)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
