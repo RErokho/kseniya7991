@@ -10,7 +10,7 @@ Hi there 👋
 Я еще нахожусь в процессе обучения, но этот процесс никогда не закончится!
 
 <blockquote>✨It's never too late to learn, right?✨</blockquote>
-![visitors](https://page-views.glitch.me/badge?page_id=kseniya7991.kseniya7991)
+![visitors](https://page-views.glitch.me/badge?page_id=75158165)
 <!--
 **kseniya7991/kseniya7991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
