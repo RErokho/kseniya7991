@@ -5,12 +5,8 @@ Hi there 👋
 
 Меня зовут [Стойчикова Ксения](https://github.com/kseniya7991). 
 
-#### Мои социальные сети:  
-<a href="https://www.linkedin.com/in/kseniya-stoychikova-907594201/">
-  <img align="left" alt="Kseniya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>    
-<br />
-Я начинающий Front-end developer.
+   
+<br />Я начинающий Front-end developer.
 Я еще нахожусь в процессе обучения, но этот процесс никогда не закончится!
 У меня еще нет коммерческого опыта 💻, но есть **10** месяцев обучения на [Yandex.Praktikum]('тут будет ссылка на сертификат')
 Но в ближайшее время я буду готова присоединиться к команде🙌
@@ -25,6 +21,14 @@ Hi there 👋
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+
+#### Свяжитесь со мной тут:
+ - <a href="https://www.linkedin.com/in/kseniya-stoychikova-907594201/">
+  <img align="left" alt="Kseniya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a> 
+
+ - 📫 [email](mailto:kseniya7991@gmail.com)
+
 
 ### Статистика:  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kseniya7991)](https://github.com/anuraghazra/github-readme-stats)
