@@ -30,5 +30,5 @@ Hi there 👋
 📫 [email: kseniya7991@gmail.com](mailto:kseniya7991@gmail.com)
 
 ### Статистика:  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kseniya7991)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kseniya7991&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
