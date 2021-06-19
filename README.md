@@ -3,7 +3,7 @@ Hi there 👋
 ![](https://visitor-badge.glitch.me/badge?page_id=kseniya7991.75158165)
 <br />
 
-Меня зовут [Стойчикова Ксения](https://github.com/kseniya7991). 
+Меня зовут [Стойчикова Ксения](https://github.com/kseniya7991) 
 <br />
 Я начинающий Front-end developer.  
 Я еще нахожусь в процессе обучения, но этот процесс никогда не закончится!  
@@ -38,7 +38,7 @@ Hi there 👋
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kseniya7991&theme=cobalt"/>
 </a>
-
+<a href="https://github.com/kseniya7991">
 <img align="center" src="code.gif"/>
-
+</a>
 
