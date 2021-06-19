@@ -39,6 +39,6 @@ Hi there 👋
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kseniya7991&theme=cobalt"/>
 </a>
 
-<img align="center" src="6M8G.gif" style="max-width: 30%;"/>
+<img align="center" src="code.gif"/>
 
 
