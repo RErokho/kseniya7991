@@ -37,7 +37,7 @@ Hi there 👋
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kseniya7991&layout=compact&theme=cobalt" />
 </a>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kseniya7991)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kseniya7991&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
