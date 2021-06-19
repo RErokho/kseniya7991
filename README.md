@@ -5,12 +5,11 @@ Hi there 👋
 
 Меня зовут [Стойчикова Ксения](https://github.com/kseniya7991). 
 
-### Мои социальные сети:  
-<br />
+#### Мои социальные сети:  
 <a href="https://www.linkedin.com/in/kseniya-stoychikova-907594201/">
   <img align="left" alt="Kseniya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>  
-<br />  
+</a>    
+<br />
 Я начинающий Front-end developer.
 Я еще нахожусь в процессе обучения, но этот процесс никогда не закончится!
 У меня еще нет коммерческого опыта 💻, но есть **10** месяцев обучения на [Yandex.Praktikum]('тут будет ссылка на сертификат')
@@ -19,7 +18,6 @@ Hi there 👋
 <blockquote>✨It's never too late to learn, right?✨</blockquote>
 
 ### Стек технологий, который я использую:  
-<br />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
