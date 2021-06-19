@@ -38,7 +38,10 @@ Hi there 👋
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kseniya7991&theme=cobalt"/>
 </a>
-<a href="https://github.com/kseniya7991">
-<img align="center" src="code.gif"/>
-</a>
 
+
+
+### Fun fact: я очень люблю мемы про разработчиков
+<a href="https://github.com/kseniya7991">
+<img align="center" src="7M5g.gif"/>
+</a>
