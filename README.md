@@ -1,5 +1,11 @@
-### Hi there 👋
+Hi there 👋
 
+Меня зовут Стойчикова Ксения. 
+
+Я начинающий Front-end developer.
+Я еще нахожусь в процессе обучения, но этот процесс никогда не закончится!
+
+<blockquote>It's never too late to learn, right?</blockquote>
 <!--
 **kseniya7991/kseniya7991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
