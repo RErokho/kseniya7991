@@ -33,13 +33,12 @@ Hi there 👋
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kseniya7991&show_icons=true&theme=cobalt" alt="Kseniya github stats"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kseniya7991&layout=compact&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kseniya7991&layout=compact&theme=cobalt" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kseniya7991&theme=cobalt"/>
 </a>
 
-![](7IjS.gif)
+<img align="center" src="6M8G.gif" style="max-width: 30%;"/>
+
 
