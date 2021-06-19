@@ -28,6 +28,9 @@ Hi there 👋
 📫 [email: kseniya7991@gmail.com](mailto:kseniya7991@gmail.com)
 
 ### Статистика:  
+<p align="center">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kseniya7991&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](6M8G.gif)
+</p>
