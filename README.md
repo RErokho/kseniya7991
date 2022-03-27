@@ -5,13 +5,15 @@ Hi there 👋
 
 Меня зовут [Стойчикова Ксения](https://github.com/kseniya7991) 
 <br />
-Я начинающий Front-end developer.  
-Я еще нахожусь в процессе обучения, но этот процесс никогда не закончится!  
-<blockquote>✨It's never too late to learn, right?✨</blockquote>
+Я Junior Front-end developer.  
+Я сменила профессию, потмоу что считаю, что работа должна приносить удовольствие✨
+Моя любимая цитата:
+<blockquote>✨Don't tell me what I can't do!✨</blockquote>
 
-У меня еще нет коммерческого опыта 💻, но есть **11** (сильных) месяцев обучения на [Yandex.Praktikum](https://github.com/kseniya7991).
-
-Я готова присоединиться к вашей команде🙌
+У меня есть **11** ССС (сильных, сложных и слезных) месяцев обучения на [Yandex.Praktikum](https://practicum.yandex.ru/web/).
+Сейчас я работаю в компании 🖥️
+Самообучаюсь 📚
+Создаю свои приложения 🔧
 
 ### Стек технологий, который я использую:  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -39,7 +41,6 @@ Hi there 👋
 </a>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kseniya7991&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
